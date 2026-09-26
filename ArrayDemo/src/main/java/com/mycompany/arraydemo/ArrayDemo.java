@@ -2,6 +2,8 @@ package com.mycompany.arraydemo;
 
 import java.util.Arrays;
 
+// HI
+
 public class ArrayDemo {
     public static void main(String[] args) {
         int [] myScores = new int[5];
